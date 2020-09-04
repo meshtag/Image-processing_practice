@@ -4,8 +4,6 @@ import numpy as np
 img=plt.imread('rotate.png')
 img_arr=np.array(img)
 i=int(input('Enter angle of rotation  '))
-fig=plt.figure()
-ax=plt.gca()
 i=math.radians(i)
 T=np.array([math.cos(i),math.sin(i),0,-math.sin(i),math.cos(i),0,0,0,1])#Rotation matrix for anticlockwise rotation
 T.resize(3,3)
