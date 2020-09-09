@@ -64,7 +64,7 @@ res_origy=convolution(y_kernel,res_orig)
 res_orig_op=np.hypot(res_origx,res_origy)
 plt.imshow(res_orig_op)
 plt.show()
-res_orig_conv_op=Image.fromarray(res_orig_op).convert('RGB')#For the converting the image in rgb to avoid the blue background.
+res_orig_conv_op=Image.fromarray(res_orig_op).convert('RGB')#For converting the image in rgb to avoid the blue background.
 #But it is not working as intended with images processed from matplotlib library,works fine with pillow.
 plt.imshow(res_orig_conv_op)
 plt.show()
