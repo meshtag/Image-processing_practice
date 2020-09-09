@@ -31,9 +31,8 @@ def mask(img,l_b,u_b):
     for x1 in range(img.shape[0]):
         for y1 in range(img.shape[1]):
             if(img[x1,y1,0]>=l_b[0] and img[x1,y1,1]>=l_b[1] and img[x1,y1,2]>=l_b[2] and img[x1,y1,0]<=u_b[0] and img[x1,y1,1]<=u_b[1] and img[x1,y1,2]<=u_b[2]):
-                maskb[x1,y1,0]=255#It was giving almost black output when conditional value was set to 1 and not 255
-                maskb[x1,y1,1]=255
-                maskb[x1,y1,2]=255
+                maskb[x1,y1,1]=maskb[x1,y1,2]=maskb[x1,y1,0]=255#It was giving almost black output when conditional value was set to 1 and not 255
+            
     cv2.imshow('mask',maskb)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
