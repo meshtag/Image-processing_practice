@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt 
 import numpy as np
-from PIL import Image
 
 orig_img=plt.imread('edge-detection.png')
 orig_img_arr=np.array(orig_img)
