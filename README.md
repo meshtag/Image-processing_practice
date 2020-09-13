@@ -66,20 +66,20 @@ Morphological transformations are some simple operations based on the image shap
 Applying dilation and erosion transformation to the image
 
 **Output**
-|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/morphological.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/result_dilation.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/result_erosion.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/dilation-edge_detection.jpg">|
+|<img width="112" height="150" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/4.Morphological%20Transformations/morphological.png">|<img width="112" height="150" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/4.Morphological%20Transformations/res_dilation.png">|<img width="112" height="150" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/4.Morphological%20Transformations/res_erosion.png">|<img width="112" height="150" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/4.Morphological%20Transformations/res_opening_transformation.png">|
 |:---:|:---:|:---:|:---:|
 |Input-Image|Dilation|Erosion|Edge-Detection|
 
 ### 5. Masking
 Masking is an image processing method in which we define a small 'image piece' and use it to modify a larger image. Masking is the process that is underneath many types of image processing, including edge detection, motion detection, and noise reduction.
 To show only blue ball a mask has been applied to the following input image
-|<img width="600" height="396" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/5.Masking/mask.jpeg">|<img width="600" height="396" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/5.Masking/masked.jpeg">|
+|<img width="600" height="396" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/5.Masking/mask.jpg">|<img width="600" height="396" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/5.Masking/res_masking.png">|
 |:---:|:---:|
 |Input Image|Masked Image(output)|
 
 ### 6. ROI
 A region of interest (ROI) is a portion of an image that you want to filter or perform some other operation on.
-<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/6.ROI/roi.jpeg">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/6.ROI/moved.jpeg">
+<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/6.ROI/roi.jpg">|<img width="640" height="450" src="">
 |:---:|:---:|
 |Input Image|Output Image|
 
