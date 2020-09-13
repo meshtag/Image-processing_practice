@@ -31,7 +31,7 @@ Applying 5X5 filters to do the following task
 1. Blurring 
 2. Sharpening
 
-|<img width="446" height="447" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/test_sharpen.png">|
+|<img width="446" height="447" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/2.Applying%20kernels/filter.png">|
 |:---:|
 |Input Image|
 
@@ -50,15 +50,15 @@ Applying Edge Detection in following sequence
 3. Sobel edge detection (right, left, top, bottom)
 4. Canny edge detection  
 
-|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/edge-detection1.png">|
+|<img width="602" height="452" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/3.Edge_detection/edge-detection.png">|
 |:---:|
 |Input Image|
 
 **Output**
-|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_verical_edge.jpg">|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_horizontal_edge.jpg">|
+|<img width="602" height="452" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/3.Edge_detection/res_horizontal_edge_detection.png">|<img width="602" height="452" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/3.Edge_detection/res_vertical_edge_detection.png">|
 |:---:|:---:|
 |Horizontal Edge Detection|Vertical Edge Detection|
-|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_sobel.jpg">|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_canny.jpg">|
+|<img width="602" height="452" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/3.Edge_detection/res_sobel_edge_detection.png">|<img width="602" height="452" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/3.Edge_detection/res_canny.png">|
 |Sobel Edge Detection|Canny Edge Detection|
 
 ### 4. Morphological Transformation
