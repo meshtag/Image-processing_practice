@@ -1,4 +1,4 @@
-# SRA_Image-processing_practice## Image Processing Task
+# SRA_Image-processing_practice
 
 The following operations have been performed mainly using only Numpy Library.Images were saved using matplotlib.
 
