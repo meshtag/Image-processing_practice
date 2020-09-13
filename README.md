@@ -15,7 +15,6 @@ Images were rotated with the help of two dimensional rotation matrix.
 
 **Output
 |<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/1.Rotation/res_rotate.png">|
-|:---:|:---:|
 |Rotation|
 
 ### 2. Applying Kernels
