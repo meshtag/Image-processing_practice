@@ -13,8 +13,8 @@ Images were rotated with the help of two dimensional rotation matrix.
 |Input Image|
 
 
-**Output**
-|<img width="600" height="322" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/1.Image_Rotation/rotated_sheared_without_bound.png">|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/1.Rotation/res_rotate.png">|
+**Output
+|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/1.Rotation/res_rotate.png">|
 |:---:|:---:|
 |Rotation|
 
