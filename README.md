@@ -1,6 +1,6 @@
 # SRA_Image-processing_practice
 
-The following operations have been performed mainly using only Numpy Library.Images were saved using matplotlib.
+The following operations have been performed mainly using only Numpy Library.Images were saved using matplotlib and pillow.
 
 ### 1. Image Rotation
 
