@@ -79,7 +79,7 @@ To show only blue ball a mask has been applied to the following input image
 
 ### 6. ROI
 A region of interest (ROI) is a portion of an image that you want to filter or perform some other operation on.
-<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/6.ROI/roi.jpg">|<img width="640" height="450" src="">
+<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/6.ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/6.ROI/result_roi.png">
 |:---:|:---:|
 |Input Image|Output Image|
 
