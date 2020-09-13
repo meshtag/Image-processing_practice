@@ -36,7 +36,7 @@ Applying 5X5 filters to do the following task
 |Input Image|
 
 **Output**
-|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_box_blur.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_blur.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_sharpen.png">|
+|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/2.Applying%20kernels/res_box_blur.png">|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/2.Applying%20kernels/res_gaussian_blur.png">|<img width="640" height="450" src="https://github.com/meshtag/SRA_Image-processing_practice/blob/master/2.Applying%20kernels/res_sharpen.png">|
 |:---:|:---:|:---:|
 |Box Blur|Gaussian Blur|Sharpen|
 
